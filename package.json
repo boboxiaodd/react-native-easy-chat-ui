@@ -38,13 +38,7 @@
     "react-native-pager-view": "^6.4.1"
   },
   "devDependencies": {
-    "react": "16.2.0",
-    "react-native": "0.52.2",
-    "prop-types": "15.6.2",
-    "babel-jest": "23.6.0",
-    "babel-preset-react-native": "4.0.1",
-    "jest": "23.6.0",
-    "react-test-renderer": "16.2.0"
+
   },
   "jest": {
     "preset": "react-native"
